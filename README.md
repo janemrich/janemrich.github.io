@@ -4,13 +4,13 @@
 
 ## Education
 M.S., Autonomous Systems \
-@ Technische Universität Darmstadt (_October 2022_)
+@ Technische Universität Darmstadt (_September 2022_)
 
 Exchange Year\
-@ University of Technology Eindhoven (_October 2019_)
+@ University of Technology Eindhoven (_September 2019_)
 
 B.S., Computer Science\
-@ Technische Universität Darmstadt (_October 2018_)
+@ Technische Universität Darmstadt (_September 2018_)
 
 Allg. Fachhochschulreife (A-Levels)\
 @ Abendschule Berufsschule Plus (_July 2015_)
@@ -42,10 +42,10 @@ which excelled at identifying sensor signals correlated with machine failure in 
 
 ## Projects
 
-### Deep Stereo RGB-only Dense 6D Object Pose Estimation
+### Deep Stereo RGB-only Dense 6D Object Pose Estimation (Master Thesis)
 ![Pose Estimation](/assets/img/render_bboxes.jpg)
 
-[Repository](https://github.com/janemrich/denstereo2)
+![Paper](https://github.com/janemrich/denstereo2/blob/denstereo/thesis.pdf) | [Repository](https://github.com/janemrich/denstereo2)
 - Leveraging stereo, we extend the state-of-the-art in the task of direct 6D pose regression.
 - Created new real-world and synthetic data with blender simulation and Kinect cameras
 - Preprocessed and cleaned data for use in a common format
@@ -60,7 +60,16 @@ which excelled at identifying sensor signals correlated with machine failure in 
 ### Deep Unsupervised Denoising For Interleaved X-Ray Channels
 ![X-ray](/assets/img/x_ray.webp)
 [Paper](/assets/pdf/Demosaicing_and_Denoising_For_Interleaved_X_Ray_Channels.pdf) | [Repository](https://github.com/janemrich/cvlab)
-- Trained deep neural nets for denoising
-- unsupervised, no ground truth data available
+- Trained deep neural nets for denoising in **PyTorch**
+- Unsupervised, no ground truth data available
 - Adaption of SOTA methods to the specific statistics of X-Ray images required understanding of the physics of the system
-- loss function had to fit the statistics of the noise generation process
+- Loss function had to fit the statistics of the noise generation process
+
+### Multi-Object Tracking
+- Tracked 3D poses of objects in **C++**
+- Filtering with a particle filter over the probability distribution
+
+### Genetic Algorithm for Build Order Optimization in StarCraft II (Bachelor Thesis)
+[Repository](https://github.com/janemrich/BOoptimizer)
+- wrote a genetic algorithm in **Java** to optimize game-playing
+- parallel evaluation of build orders with a **C++** game bot
