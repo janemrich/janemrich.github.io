@@ -48,6 +48,7 @@ which excelled at identifying sensor signals correlated with machine failure in 
 [Repository](https://github.com/janemrich/denstereo2)
 - Leveraging stereo, we extend the state-of-the-art in the task of direct 6D pose regression.
 - Created new real-world and synthetic data with blender simulation and Kinect cameras
+- Preprocessed and cleaned data for use in a common format
 - Implemented a end-to-end deep learning model with **PyTorch** on a GPU Cluster with **Slurm** and **Docker**
 
 ### Deep Reinforcement Learning Agents For Pommerman
@@ -57,6 +58,9 @@ which excelled at identifying sensor signals correlated with machine failure in 
 - **Reinforcement learning** algorithm and environment design
 
 ### Deep Unsupervised Denoising For Interleaved X-Ray Channels
+![X-ray](/assets/img/x_ray.webp)
 [Paper](/assets/pdf/Demosaicing_and_Denoising_For_Interleaved_X_Ray_Channels.pdf)
-- Trained deep neural nets for unsupervised denoising
+- Trained deep neural nets for denoising
+- unsupervised, no ground truth data available
 - Adaption of SOTA methods to the specific statistics of X-Ray images required understanding of the physics of the system
+- loss function had to fit the statistics of the noise generation process
