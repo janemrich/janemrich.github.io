@@ -30,7 +30,7 @@ which excelled at identifying sensor signals correlated with machine failure in 
 **Tutor @ TU Darmstadt (_April 2018 - July 2018_)**
 - Conducted tutoring sessions in Distributed Systems
 
-**Student Assistent @ TU Darmstadt (_August 2016 - June 2018_)**
+**Student Assistant @ TU Darmstadt (_August 2016 - June 2018_)**
 - Engaged in programming projects in **Java** to support research in train systems
 
 **Repair Engineer @ Bosch Rexroth (_February 2015 - September 2015_)**
