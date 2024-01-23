@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 section {
-    width: 600px;
-    float: right;
-    padding-bottom: 50px
+  width: 610px;
+  float:right;
+  padding-bottom:30px;
 }

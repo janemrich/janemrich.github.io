@@ -1,4 +1,4 @@
-# Data Scientist / Machine Learning
+# Data Scientist
 
 #### Technical Skills: Python, SQL, PyTorch, Tableau, (3D) Computer Vision
 
