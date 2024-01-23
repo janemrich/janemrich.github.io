@@ -10,12 +10,12 @@
 
 ## Work Experience
 **Research Assistant Intern @ Fraunhofer IGD (_October 2022 - May 2023_)**
-- study of **deep learning** 6D Object Pose Estimation
+- study of **deep learning 6D Object Pose Estimation**
 - supporting my master thesis
 - continued research after thesis
 
 **Data Scientist Intern @ Bosch Rexroth (_July 2019 - October 2020_)**
-- Spearheaded deep **anomaly attribution** for predictive maintenance
+- Spearheaded deep **anomaly attribution for predictive maintenance**
 - Designed and developed a prototype using **Keras** and Deeplift,
 which excelled at identifying sensor signals correlated with machine failure in real-world data
 - researched effort to switch database from Hadoop to timeseries database **InfluxDB**
@@ -28,6 +28,7 @@ which excelled at identifying sensor signals correlated with machine failure in 
 
 **Repair Engineer @ Bosch Rexroth (_February 2015 - September 2015_)**
 - “Played a crucial role in the Quality Assurance team”, ensuring the reliability of high-precision electric motors.
+- repair of synchronous servomotors
 
 **Apprentice Mechatronics @ Bosch Rexroth (_September 2011 - February 2015_)**
 - gained real-world experience in robotics and automation in manufacturing with **PLC**, **electronics**, **mechanics** and **hydraulics**
@@ -41,5 +42,11 @@ which excelled at identifying sensor signals correlated with machine failure in 
 - Leveraging stereo, we extend the state-of-the-art in the task of direct 6D pose regression.
 - Created new real-world and synthetic data with blender simulation and Kinect cameras
 - Implemented a end-to-end deep learning model with **PyTorch** on a GPU Cluster with **Slurm** and **Docker**
+
+### Deep Reinforcement Learning Agents For Pommerman
+![Pommerman](/assets/img/pommerman.gif)
+- top three agent in student competition
+- deep neural network architecture design
+- **reinforcement learning** algorithm and environment design
 
 ### 
