@@ -27,7 +27,7 @@ github_username:  janemrich
 
 # Build settings
 markdown: kramdown
-theme: minimal
+theme: jekyll-theme-minimal
 # plugins:
   # - jekyll-feed
 
