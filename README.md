@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist / Machine Learning
 
 #### Technical Skills: Python, SQL, PyTorch, Tableau, (3D) Computer Vision
 
@@ -22,8 +22,9 @@ which excelled at identifying sensor signals correlated with machine failure in 
 ## Projects
 
 ### Deep Stereo RGB-only Dense 6D Object Pose Estimation
-[Repository](https://github.com/janemrich/denstereo2)
 ![Pose Estimation](/assets/img/render_bboxes.jpg)
+
+[Repository](https://github.com/janemrich/denstereo2)
 - Leveraging stereo, we extend the state-of-the-art in the task of direct 6D pose regression.
 - Created new real-world and synthetic data with blender simulation and Kincect cameras
 - Implemented a end-to-end deep learning model with **PyTorch** on a 
