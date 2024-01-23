@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, PyTorch, Tableau, (3D) Computer Vision
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Autonomous Systems | Technische Universität Darmstadt (_October 2022)							       		
+- Exchange Year | Univeristy of Technoglogy Eindhoven (_October 2019)							       		
+- B.S., Computer Science | Technische Universität Darmstadt (_October 2018)							       		
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
