@@ -59,7 +59,7 @@ which excelled at identifying sensor signals correlated with machine failure in 
 
 ### Deep Unsupervised Denoising For Interleaved X-Ray Channels
 ![X-ray](/assets/img/x_ray.webp)
-[Paper](/assets/pdf/Demosaicing_and_Denoising_For_Interleaved_X_Ray_Channels.pdf)
+[Paper](/assets/pdf/Demosaicing_and_Denoising_For_Interleaved_X_Ray_Channels.pdf) [Repository](https://github.com/janemrich/cvlab)
 - Trained deep neural nets for denoising
 - unsupervised, no ground truth data available
 - Adaption of SOTA methods to the specific statistics of X-Ray images required understanding of the physics of the system
