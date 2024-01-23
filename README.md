@@ -6,7 +6,7 @@
 - M.S., Autonomous Systems | Technische Universität Darmstadt (_October 2022_)
 - M.S., Exchange Year | University of Technology Eindhoven (_October 2019_)
 - B.S., Computer Science | Technische Universität Darmstadt (_October 2018_)
-- Allg. Fachhochschulreife (A-Levels) | Abendschule Berufsschule Plus (_July 2015)
+- Allg. Fachhochschulreife (A-Levels) | Abendschule Berufsschule Plus (_July 2015_)
 
 ## Work Experience
 **Research Assistant Intern @ Fraunhofer IGD (_October 2022 - May 2023_)**
