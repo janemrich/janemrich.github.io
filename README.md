@@ -12,12 +12,16 @@
 - Continued data processing and experimentation for study of deep learning 6D Object Pose Estimation
 
 **Data Scientist Intern @ Bosch Rexroth (_July 2019 - October 2020_)**
-- Spearheaded deep anomaly attribution for predictive maintenance
-- Designed and developed a prototype using Keras and Deeplift,
+- Spearheaded deep **anomaly attribution** for predictive maintenance
+- Designed and developed a prototype using **Keras** and Deeplift,
 which excelled at identifying sensor signals correlated with machine failure in real-world data
+- researched effort to switch database from Hadoop to timeseries database **InfluxDB**
 
 **Repair Engineer @ Bosch Rexroth (_February 2015 - September 2015_)**
 - “Played a crucial role in the Quality Assurance team”, ensuring the reliability of high-precision electric motors.
+
+**Apprentice Mechatronics @ Bosch Rexroth (_September 2011 - February 2015_)**
+- gained real-world experience in robotics and automation in manufacturing with **PLC**, **electronics**, **mechanics** and **hydraulics**
 
 ## Projects
 
@@ -26,8 +30,8 @@ which excelled at identifying sensor signals correlated with machine failure in 
 
 [Repository](https://github.com/janemrich/denstereo2)
 - Leveraging stereo, we extend the state-of-the-art in the task of direct 6D pose regression.
-- Created new real-world and synthetic data with blender simulation and Kincect cameras
-- Implemented a end-to-end deep learning model with **PyTorch** on a 
+- Created new real-world and synthetic data with blender simulation and Kinect cameras
+- Implemented a end-to-end deep learning model with **PyTorch** on a GPU Cluster with **Slurm** and **Docker**
 
 
 ### Deep Stereo RGB-only Dense 6D Object Pose Estimation
