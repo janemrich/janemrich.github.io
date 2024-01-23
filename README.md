@@ -4,7 +4,7 @@
 
 ## Education
 - M.S., Autonomous Systems | Technische Universität Darmstadt (_October 2022_)
-- Exchange Year | University of Technology Eindhoven (_October 2019_)
+- M.S., Exchange Year | University of Technology Eindhoven (_October 2019_)
 - B.S., Computer Science | Technische Universität Darmstadt (_October 2018_)
 
 ## Work Experience
@@ -21,10 +21,15 @@ which excelled at identifying sensor signals correlated with machine failure in 
 
 ## Projects
 
-### 
+### Deep Stereo RGB-only Dense 6D Object Pose Estimation
+[Repository](https://github.com/janemrich/denstereo2)
+![Pose Estimation](/assets/img/render_bboxes.jpg)
+- Leveraging stereo, we extend the state-of-the-art in the task of direct 6D pose regression.
+- Created new real-world and synthetic data with blender simulation and Kincect cameras
+- Implemented a end-to-end deep learning model with **PyTorch** on a 
 
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### Deep Stereo RGB-only Dense 6D Object Pose Estimation
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
