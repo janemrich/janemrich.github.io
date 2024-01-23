@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, PyTorch, Tableau, (3D) Computer Vision
 
 ## Education
-- M.S., Autonomous Systems | Technische Universität Darmstadt (_October 2022)							       		
-- Exchange Year | Univeristy of Technoglogy Eindhoven (_October 2019)							       		
-- B.S., Computer Science | Technische Universität Darmstadt (_October 2018)							       		
+- M.S., Autonomous Systems | Technische Universität Darmstadt (_October 2022_)
+- Exchange Year | Univeristy of Technoglogy Eindhoven (_October 2019_)
+- B.S., Computer Science | Technische Universität Darmstadt (_October 2018_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
