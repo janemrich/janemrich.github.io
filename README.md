@@ -45,10 +45,10 @@ which excelled at identifying sensor signals correlated with machine failure in 
 ### Deep Stereo RGB-only Dense 6D Object Pose Estimation (Master Thesis)
 ![Pose Estimation](/assets/img/render_bboxes.jpg)
 
-![Paper](https://github.com/janemrich/denstereo2/blob/denstereo/thesis.pdf) | [Repository](https://github.com/janemrich/denstereo2)
+[Paper](https://github.com/janemrich/denstereo2/blob/denstereo/thesis.pdf) | [Repository](https://github.com/janemrich/denstereo2)
 - Leveraging stereo, we extend the state-of-the-art in the task of direct 6D pose regression.
-- Created new real-world and synthetic data with blender simulation and Kinect cameras
-- Preprocessed and cleaned data for use in a common format
+- Created new real-world and synthetic data with blender simulation **BlenderProc** and Kinect cameras
+- Preprocessed and cleaned data for use in a common format with **Numba**
 - Implemented a end-to-end deep learning model with **PyTorch** on a GPU Cluster with **Slurm** and **Docker**
 
 ### Deep Reinforcement Learning Agents For Pommerman
