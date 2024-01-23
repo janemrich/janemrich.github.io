@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, PyTorch, Tableau, (3D) Computer Vision
+#### Technical Skills: Python, SQL, PyTorch, (3D) Computer Vision
 
 ## Education
 M.S., Autonomous Systems \
@@ -73,3 +73,13 @@ which excelled at identifying sensor signals correlated with machine failure in 
 [Repository](https://github.com/janemrich/BOoptimizer)
 - wrote a genetic algorithm in **Java** to optimize game-playing
 - parallel evaluation of build orders with a **C++** game bot
+
+### Solar plus Battery EV charging park energy and cash flow simulator
+[Repository](https://github.com/janemrich/ev-solar-park)
+- Simulates a solar EV charging park in python with probability distributions
+- Reports cash flows and balance sheet
+
+### Electric Vehicle Comparison Website
+[Repository](https://github.com/janemrich/eautoinfo.com) | [Website](https://eautoinfo.com/)
+- wrote a EV Comparison Website in **React**
+- self-hosted with **Docker** and **Virtual Root Server**
