@@ -16,7 +16,7 @@ Allg. Fachhochschulreife (A-Levels)\
 @ Abendschule Berufsschule Plus (_July 2015_)
 
 ## Work Experience
-**Research Assistant Intern @ Fraunhofer IGD (_October 2022 - May 2023_)**
+**Research Assistant Intern @ Fraunhofer IGD (_October 2021 - May 2023_)**
 - study of **deep learning 6D Object Pose Estimation**
 - supporting my master thesis
 - continued research after thesis
