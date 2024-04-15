@@ -1,5 +1,3 @@
-# Data Scientist (AI/ML)
-
 #### Technical Skills: Python, PyTorch, SQL, (3D) Computer Vision, Linux, GPU Cluster, Docker, C++
 
 ## Education
