@@ -3,18 +3,22 @@
 ### Chess Document AI
 ![Schach](/assets/img/Fischer_Score_Card.jpg)
 [Website](pawnparse.com)
+
 Developing Optical Character Recognition for chess tournaments.
 - Fine-tuning Vision and LLM Transformers for handwritten chess notation
 - Developing text recognition for chess notation
+- Data collection, Processing, Labeling and Design
 
 ### Deep Stereo RGB-only Dense 6D Object Pose Estimation (Master Thesis)
 ![Pose Estimation](/assets/img/render_bboxes.jpg)
 
 [Paper](https://github.com/janemrich/denstereo2/blob/denstereo/thesis.pdf) | [Repository](https://github.com/janemrich/denstereo2)
-- Leveraging stereo, we extend the state-of-the-art in the task of direct 6D pose regression.
-- Created new real-world and synthetic data with blender simulation **BlenderProc** and Kinect cameras
-- Preprocessed and cleaned data for use in a common format with **Numba**
-- Implemented a end-to-end deep learning model with **PyTorch** on a GPU Cluster with **Slurm** and **Docker**
+
+Researched RGB-only 6D object pose estimation.
+- Correctly identified which method in the literature will become state-of-the-art with further training and extended the method to a dual camera setup
+- Created new real-world data with Kinect cameras, using camera calibration, and 50k synthetic samples with blender rendering and physics simulation on a Slurm cluster and generated 500k+ labels on a Slurm cluster with Python, Blender, Numpy and Numba
+- Trained PyTorch model with 8 loss functions on a A100 GPU cluster with up to 8 GPUs per model with Docker containers inside Slurm jobs, optimized Hyperparameters
+- Added new modalities to the model by combining it with depth regression models and tested various forms of image fusing neural network architectures for dual cameras
 
 ### Deep Reinforcement Learning Agents For Pommerman
 ![Pommerman](/assets/img/pommerman.gif)
@@ -25,10 +29,19 @@ Developing Optical Character Recognition for chess tournaments.
 ### Deep Unsupervised Denoising For Interleaved X-Ray Channels
 ![X-ray](/assets/img/x_ray.webp)
 [Paper](/assets/pdf/Demosaicing_and_Denoising_For_Interleaved_X_Ray_Channels.pdf) | [Repository](https://github.com/janemrich/cvlab)
+
+Researched deep unsupervised denoising for novel x-ray sensors.
+Successfully trained unsupervised denoiser in PyTorch, which required understanding of the specific statistics of x-ray sensors for correct loss function with Numpy and SciPy
 - Trained deep neural nets for denoising in **PyTorch**
-- Unsupervised, no ground truth data available
 - Adaption of SOTA methods to the specific statistics of X-Ray images required understanding of the physics of the system
 - Loss function had to fit the statistics of the noise generation process
+
+### Predictive Maintenance Internship
+Worked on improving a deep predictive maintenance product.
+
+- Promoted deep anomaly attribution for predictive maintenance on my initiative. Designed and developed a prototype using Autoencoders, Keras and Deeplift, which succeeded at identifying timing and sensor signals correlated with machine failure in real-world industrial IoT data, saving daily work for the 10-person customer service team
+- Researched, tested and presented time series databases, prompting the team to switch to InfluxDB
+- Developed data processing tooling with Pandas and Bokeh
 
 ### Multi-Object Tracking
 - Tracked 3D poses of objects in **C++**
