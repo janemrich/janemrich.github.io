@@ -9,10 +9,10 @@ Developing Optical Character Recognition for chess tournaments.
 - Developing text recognition for chess notation
 - Data collection, Processing, Labeling and Design
 
-### Deep Stereo RGB-only Dense 6D Object Pose Estimation (Master Thesis) (https://github.com/janemrich/denstereo2)
+### Deep Stereo RGB-only Dense 6D Object Pose Estimation (Master Thesis)
 
 ![Pose Estimation](/assets/img/render_bboxes.jpg)
-[Paper](https://github.com/janemrich/denstereo2/blob/denstereo/thesis.pdf) | [Repository]
+[Paper](https://github.com/janemrich/denstereo2/blob/denstereo/thesis.pdf) | [Repository](https://github.com/janemrich/denstereo2)
 
 Researched RGB-only 6D object pose estimation.
 - Correctly identified which method in the literature will become state-of-the-art with further training and extended the method to a dual camera setup
