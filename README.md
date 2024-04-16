@@ -1,5 +1,12 @@
 ## Projects
 
+### Chess Document AI
+![Schach](/assets/img/schach.png)]
+[Website](pawnparse.com)
+Developing Optical Character Recognition for chess tournaments.
+- Fine-tuning Vision and LLM Transformers for handwritten chess notation
+- Developing text recognition for chess notation
+
 ### Deep Stereo RGB-only Dense 6D Object Pose Estimation (Master Thesis)
 ![Pose Estimation](/assets/img/render_bboxes.jpg)
 
