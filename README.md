@@ -1,7 +1,7 @@
 ## Projects
 
 ### Chess Document AI
-![Schach](/assets/img/Fischer_Score_Card.jpg)]
+![Schach](/assets/img/Fischer_Score_Card.jpg)
 [Website](pawnparse.com)
 Developing Optical Character Recognition for chess tournaments.
 - Fine-tuning Vision and LLM Transformers for handwritten chess notation
