@@ -1,18 +1,18 @@
 ## Projects
 
-### Chess Document AI
+### Chess Document AI | [pawnparse.com](pawnparse.com)
 ![Schach](/assets/img/Fischer_Score_Card.jpg)
-[Website](pawnparse.com)
+
 
 Developing Optical Character Recognition for chess tournaments.
 - Fine-tuning Vision and LLM Transformers for handwritten chess notation
 - Developing text recognition for chess notation
 - Data collection, Processing, Labeling and Design
 
-### Deep Stereo RGB-only Dense 6D Object Pose Estimation (Master Thesis)
+### Deep Stereo RGB-only Dense 6D Object Pose Estimation (Master Thesis) [Paper](https://github.com/janemrich/denstereo2/blob/denstereo/thesis.pdf) | [Repository](https://github.com/janemrich/denstereo2)
+
 ![Pose Estimation](/assets/img/render_bboxes.jpg)
 
-[Paper](https://github.com/janemrich/denstereo2/blob/denstereo/thesis.pdf) | [Repository](https://github.com/janemrich/denstereo2)
 
 Researched RGB-only 6D object pose estimation.
 - Correctly identified which method in the literature will become state-of-the-art with further training and extended the method to a dual camera setup
