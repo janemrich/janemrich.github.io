@@ -57,7 +57,7 @@ Worked on improving a deep predictive maintenance product.
 - Simulates a solar EV charging park in python with probability distributions
 - Reports cash flows and balance sheet
 
-### Electric Vehicle Comparison Website
-[Repository](https://github.com/janemrich/eautoinfo.com) | [Website](https://eautoinfo.com/)
+### Electric Vehicle Comparison Website [eautoinfo.com](https://eautoinfo.com/)
+[Repository](https://github.com/janemrich/eautoinfo.com)
 - wrote a EV Comparison Website in **React**
 - self-hosted with **Docker** and **Virtual Root Server**
