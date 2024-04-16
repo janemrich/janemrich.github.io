@@ -59,5 +59,7 @@ Worked on improving a deep predictive maintenance product.
 
 ### Electric Vehicle Comparison Website [eautoinfo.com](https://eautoinfo.com/)
 [Repository](https://github.com/janemrich/eautoinfo.com)
-- wrote a EV Comparison Website in **React**
-- self-hosted with **Docker** and **Virtual Root Server**
+
+Created eautoinfo.com: compare most important aspects of EVs
+- Frontend in React, Backend with REST and SQL
+- Hosted with Microservices
