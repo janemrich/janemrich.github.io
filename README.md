@@ -1,6 +1,6 @@
 ## Projects
 
-### Chess Document AI [pawnparse.com](pawnparse.com)
+### Chess Document AI [pawnparse.com](https://pawnparse.com)
 ![Schach](/assets/img/Fischer_Score_Card.jpg)
 
 
